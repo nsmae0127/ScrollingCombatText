@@ -1,4 +1,4 @@
 # Scrolling Combat Text
-Project#2
+Unity training project.
 
  
